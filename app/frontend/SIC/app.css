@@ -1,0 +1,6 @@
+* Minimal residual App.css - most styling is in Tailwind + index.css */
+.App {
+    min-height: 100vh;
+    background: #070b14;
+    color: #f4f7fb;
+}
